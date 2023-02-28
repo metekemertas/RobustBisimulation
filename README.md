@@ -1,6 +1,6 @@
 # Towards Robust Bisimulation Metric Learning
 
-Submitted to NeurIPS 2021
+Accepted to NeurIPS 2021.
 
 ## Usage 
 
@@ -24,4 +24,18 @@ Scripts for reproducing all experiments in the paper are in the subfolder `scrip
 
 Our code is based on the original Deep Bisimulation for Control code: [[paper](https://arxiv.org/abs/2006.10742)] [[code](https://github.com/facebookresearch/deep_bisim4control)], which is CC-BY-NC 4.0 licensed.
 
+## Citing
 
+If you use our codebase, please consider citing our paper:
+
+    @inproceedings{NEURIPS2021_256bf8e6,
+     author = {Kemertas, Mete and Aumentado-Armstrong, Tristan},
+     booktitle = {Advances in Neural Information Processing Systems},
+     editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+     pages = {4764--4777},
+     publisher = {Curran Associates, Inc.},
+     title = {Towards Robust Bisimulation Metric Learning},
+     url = {https://proceedings.neurips.cc/paper/2021/file/256bf8e6923a52fda8ddf7dc050a1148-Paper.pdf},
+     volume = {34},
+     year = {2021}
+    }
